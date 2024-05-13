@@ -1,0 +1,14 @@
+D:\PRN212\Week1\Lesson38\Lesson38\bin\Debug\net8.0\Lesson38.exe
+D:\PRN212\Week1\Lesson38\Lesson38\bin\Debug\net8.0\Lesson38.deps.json
+D:\PRN212\Week1\Lesson38\Lesson38\bin\Debug\net8.0\Lesson38.runtimeconfig.json
+D:\PRN212\Week1\Lesson38\Lesson38\bin\Debug\net8.0\Lesson38.dll
+D:\PRN212\Week1\Lesson38\Lesson38\bin\Debug\net8.0\Lesson38.pdb
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\Lesson38.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\Lesson38.AssemblyInfoInputs.cache
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\Lesson38.AssemblyInfo.cs
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\Lesson38.csproj.CoreCompileInputs.cache
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\Lesson38.dll
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\refint\Lesson38.dll
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\Lesson38.pdb
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\Lesson38.genruntimeconfig.cache
+D:\PRN212\Week1\Lesson38\Lesson38\obj\Debug\net8.0\ref\Lesson38.dll
